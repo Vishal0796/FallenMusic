@@ -14,12 +14,9 @@ async def start_(client: Client, message: Message):
         photo=f"https://telegra.ph/file/053f99956ccee8416b8f7.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━
 🖤 ʜᴇʏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs...
-ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
-┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](t.me/anonymous_was_bot)
-┗━━━━━━━━━━━━━━━━━┛
+ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ 
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](t.me/anonymous_was_bot) ʙᴀʙʏ...
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](t.me/Ti_amo_F_amore_mio_2912) ʙᴀʙʏ...
 ━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -28,14 +25,14 @@ async def start_(client: Client, message: Message):
                         "😫ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ​😫", url="https://t.me/fallen_music_bot?startgroup=true")
                   ],[
                     InlineKeyboardButton(
-                        "😘ᴄʀᴇᴀᴛᴏʀ😘", url="https://t.me/anonymous_was_bot"
+                        "😘ᴄʀᴇᴀᴛᴏʀ😘", url="https://t.me/Ti_amo_F_amore_mio_2912"
                     ),
                     InlineKeyboardButton(
-                        "💔sᴜᴘᴘᴏʀᴛ💔", url="https://t.me/DevilsHeavenMF"
+                        "💔sᴜᴘᴘᴏʀᴛ💔", url="https://t.me/pyar_ki_duniya_1142"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "🤔sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​🤔", url="https://t.me/DevilsHeavenMF"
+                        "🤔sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​🤔", url="https://telegra.ph/file/388068d71331a098d7896.jpg"
                     )]
             ]
        ),
@@ -51,7 +48,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🖤 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 🖤", url=f"https://t.me/anonymous_was_bot")
+                        "🖤 Owner 🖤", url=f"https://t.me/Ti_amo_F_amore_mio_2912")
                 ]
             ]
         ),
